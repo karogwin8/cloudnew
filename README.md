@@ -1,0 +1,4 @@
+# cloudnew
+newcom
+bitcoin
+pizza
